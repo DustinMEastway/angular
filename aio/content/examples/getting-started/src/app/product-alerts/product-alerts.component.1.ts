@@ -16,7 +16,6 @@ export class ProductAlertsComponent implements OnInit {
 // #enddocregion as-generated
   @Input() product;
 // #docregion as-generated
-  
   constructor() { }
 
   ngOnInit() {
